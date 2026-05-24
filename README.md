@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AI-Powered Customer Segmentation System
 📌 Project Overview
 
@@ -66,33 +67,31 @@ Purchase history
 Campaign responses
 Loyalty indicators
 📊 Project Workflow
+
 1. Data Collection
-Import customer dataset
+   Import customer dataset
 2. Data Preprocessing
-Handle missing values
-Remove duplicates
-Encode categorical variables
-Normalize data
+   Handle missing values
+   Remove duplicates
+   Encode categorical variables
+   Normalize data
 3. Exploratory Data Analysis
-Understand customer patterns
-Visualize spending behaviour
-Correlation analysis
+   Understand customer patterns
+   Visualize spending behaviour
+   Correlation analysis
 4. Feature Selection
-Select important behavioural features
+   Select important behavioural features
 5. Clustering
 
 Apply clustering algorithms:
 
 K-Means
-Hierarchical Clustering
-6. Cluster Evaluation
+Hierarchical Clustering 6. Cluster Evaluation
 Elbow Method
-Silhouette Score
-7. Visualization
+Silhouette Score 7. Visualization
 Scatter plots
 Cluster distribution graphs
-PCA-based visualization
-8. Business Insights
+PCA-based visualization 8. Business Insights
 
 Generate marketing and retention strategies for each customer segment.
 
