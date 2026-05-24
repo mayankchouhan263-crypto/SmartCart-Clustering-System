@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.virtual_documents
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Anaconda
+.conda/
+
+# Large data files
+ML/Data/*.csv
+*.csv
